@@ -1,5 +1,10 @@
 # Aleo Deployment Demo
 
+# Result 
+
+![IMG_9489](https://github.com/vszammit/aleo-deploy-workshop/assets/55702264/a9636199-a930-412f-8cf2-33cb8ad9565d)
+
+
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
 
 ## Prerequisites
